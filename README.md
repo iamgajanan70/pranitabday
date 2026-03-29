@@ -61,6 +61,12 @@ The user journey is engineered to be sequential, suspenseful, and deeply persona
 
 ## ⚙️ Quick Start & Customization
 
+### Installation
+To get this project on your local machine, run the following command in your terminal:
+```bash
+git clone https://github.com/iamgajanan70/pranitabday.git
+```
+
 ### Running Locally
 Because this project utilizes standard web technologies without a complex backend, you can explore it simply by opening the files in your browser. 
 For the absolute best experience (to ensure `localStorage` and modules work without cross-origin constraints), run it using **Live Server** in VS Code:
